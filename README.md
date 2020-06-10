@@ -1,3 +1,4 @@
+\![](./resources/official_armmbed_example_badge.png)
 # Example LoRaWAN application for Mbed-OS
 
 This is an example application based on `Mbed-OS` LoRaWAN protocol APIs. The Mbed-OS LoRaWAN stack implementation is compliant with LoRaWAN v1.0.2 specification.  See this [link](https://os.mbed.com/blog/entry/Introducing-LoRaWAN-11-support/) for information on support for other LoRaWAN spec versions. This application can work with any Network Server if you have correct credentials for the said Network Server. 
@@ -190,4 +191,3 @@ For more information, please follow this [blog post](https://os.mbed.com/blog/en
 The software is provided under Apache-2.0 license. Contributions to this project are accepted under the same license. Please see [contributing.md](CONTRIBUTING.md) for more info.
 
 This project contains code from other projects. The original license text is included in those source files. They must comply with our license guide.
-
